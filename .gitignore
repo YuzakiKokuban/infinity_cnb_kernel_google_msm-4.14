@@ -134,3 +134,6 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+# BakaSU is fetched from main by Kokuban CI at build time.
+/KernelSU/
